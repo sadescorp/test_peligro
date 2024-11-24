@@ -10,7 +10,7 @@ class NFPAApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Rombo NFPA 704',
+      title: 'Rombo NFPA 704 Peligro',
       theme: ThemeData(
         useMaterial3: true,
       ),
